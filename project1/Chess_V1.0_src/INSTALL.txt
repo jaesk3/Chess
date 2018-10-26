@@ -1,0 +1,7 @@
+To install Chess Please, run the following series of commands (also found in README.txt):
+        
+	[user$] tar -xzvf Chess_Alpha.tar.gz
+        [user$] make
+        [user$] make gui 
+        [user$] ./bin/ChessPlease_1.0
+	[user$] ./bin/ChessPlease_1.0GUI
